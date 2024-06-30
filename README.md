@@ -1,5 +1,5 @@
 # NOTE-IT
-DESCRIPTION
+
 Welcome to NoteIt, an all-in-one note-making and organization web-application. Helps you create , organize and manage your notes with ease. It's designed to help you stay productive, whether you are a student, profesional, or simply someone who loves to jot ideas and thoughts which you can further share with your team , friends or other users.
 
 
